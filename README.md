@@ -28,7 +28,7 @@ Em **Settings → Pages → Build and deployment → Source**, selecione **GitHu
 
 - `src/main.jsx`: textos, serviços, cases e formulário.
 - `src/styles.css`: identidade visual e comportamento responsivo.
-- `public/hero.png`: imagem de arquitetura gerada por IA para este projeto.
+- `public/hero.jpg`: imagem de arquitetura gerada por IA para este projeto.
 - `public/favicon.svg`: favicon da marca.
 
 O formulário valida os campos no navegador e apenas exibe uma confirmação de simulação. **Não envia nem armazena informações**, não possui backend e não usa localStorage. Antes de usar comercialmente, conecte-o a um serviço real, defina o tratamento de dados e substitua os exemplos por informações verificadas. Não insira dados de pacientes.
